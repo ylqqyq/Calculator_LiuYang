@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nov4Lab</string>
+    <string name="num0">0</string>
+    <string name="num1">1</string>
+    <string name="advance_mode">ADVANCE - WITH HISTORY</string>
+    <string name="standard_mode">STANDARD - NO HISTORY</string>
+</resources>
